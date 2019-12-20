@@ -1,0 +1,13 @@
+Package: crpmr
+Type: Package
+Title: Data Tools in R by the Center for Renal Precision Medicine at UT Health
+    San Antonio
+Version: 0.1.0
+Authors@R: person("Daniel", "Montemayor", email = "montemayord2@uthscsa.edu",
+                  role = c("aut", "cre"))
+Maintainer: Daniel Montemayor <montemayord2@uthscsa.edu>
+Description: Tools for uploading data, generating tables and figures,
+    treating missing values, transformations, and partitioning sub populations.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true

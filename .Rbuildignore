@@ -1,0 +1,17 @@
+#Automatically added by RStudio
+^.*\.Rproj$
+
+# Temporary files
+^\.Rproj\.user$
+
+#Rmarkdown files
+^.*\.Rmd$
+
+#Markdown files
+^.*\.md$
+
+#Continuous integration files
+^\.circleci$
+
+#misc
+^\.DS_Store$
